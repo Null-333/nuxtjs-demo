@@ -5,6 +5,7 @@
 </template>
 <script>
 export default {
-  name: 'HomePage'
+  name: 'HomePage',
+  layout: 'foo',
 }
 </script>
