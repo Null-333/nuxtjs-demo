@@ -1,6 +1,6 @@
 <template>
   <div>
-    abc3333
+    foo 子路由
   </div>
 </template>
 <script>
