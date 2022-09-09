@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Null-333/nuxtjs-demo/issues"
   },
-  "homepage": "https://github.com/Null-333/nuxtjs-demo#readme"
+  "homepage": "https://github.com/Null-333/nuxtjs-demo#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "nuxt": "^2.15.8"
+  }
 }

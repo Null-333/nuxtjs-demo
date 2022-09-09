@@ -1,0 +1,15 @@
+{
+  "posts": [{
+    "id": 1,
+    "title": "remote-working",
+    "body": "收集整理远程工作相关的资料"
+  }, {
+    "id": 2,
+    "title": "remote",
+    "body": "Jobs and Tips for remote work"
+  }, {
+    "id": 3,
+    "title": "",
+    "body": "Resources for remote workers: approaches, hiring page, remote life and more."
+  }]
+}
